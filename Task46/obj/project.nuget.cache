@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "S6SixV75Zea+3gYqFRzk2MTu666ug0zpomzRgWrkwTvcnCkzw+Gcl82sd3Cy2HbrWs86Z1wuyFkg5n07k/+ysQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\JV\\JoVision-Backend-Tasks\\Task46\\Task46.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
